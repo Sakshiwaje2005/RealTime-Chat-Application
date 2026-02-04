@@ -37,4 +37,8 @@ npm start
 
 http://localhost:3000
 
+*Output:
+
+![Image](https://github.com/user-attachments/assets/354b890b-3681-4653-aaf3-6870358ab519)
+
 
